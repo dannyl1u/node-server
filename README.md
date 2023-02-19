@@ -4,7 +4,7 @@
 
 1. Clone this repository
 
- ```bash
+   ```bash
    $ git clone https://github.com/dannyl1u/node-api.git
    ```
 
