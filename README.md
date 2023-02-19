@@ -109,5 +109,4 @@ Server should now be up at [http://localhost:8000](http://localhost:8000)
 
 10. All done. Generate your pet name!
 
-![](https://tenor.com/en-CA/view/gif-27586362)
 
