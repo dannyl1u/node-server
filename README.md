@@ -27,4 +27,4 @@
    $ node .
    ```
    
-Server should now be up at [http://localhost:8080](http://localhost:8080)! 
+Server should now be up at [http://localhost:8080](http://localhost:8080)
